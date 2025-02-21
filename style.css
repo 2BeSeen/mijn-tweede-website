@@ -1,17 +1,3 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    text-align: center;
-    padding: 50px;
-}
-
-h1 {
-    color: #3498db;
-}
-
-p {
-    color: #2c3e50;
-}
 @keyframes bounce {
     0% { transform: translateY(0); }
     50% { transform: translateY(-10px); }
